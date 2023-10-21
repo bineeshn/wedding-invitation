@@ -4,7 +4,8 @@
 }
 html {
     overflow-x: hidden;
-  }
+    scroll-behavior: smooth;
+}
 body {
     background-image: url('background.jpeg'); 
     background-size: cover; 
